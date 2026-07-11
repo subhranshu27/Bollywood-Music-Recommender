@@ -16,6 +16,7 @@ st.markdown(
         background-color: #2596be;
         background-image:url("https://wallpapers.com/images/hd/table-of-music-4k-kapplvr0i9cj975e.jpg");
         background-size:cover;
+        text-color:#4F46E5 !important;
 
     }
     
