@@ -6,7 +6,7 @@ similarity=pickle.load(open("similarity.pkl",'rb'))
 tfidf=pickle.load(open("tfidf.pkl",'rb'))
 
 st.title("Bollywood music Recommender systeam")
-
+st.markdown('<p style="color:#FF5733; font-size:24px;">This is custom orange text!</p>', unsafe_allow_html=True)
 user_input=st.text_input("Enter song name:")
 st.markdown(
     """
